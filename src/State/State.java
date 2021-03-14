@@ -1,4 +1,4 @@
-package Strategy;
+package State;
 
 public interface State {
     void insertQuarter();
